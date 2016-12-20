@@ -1,0 +1,5 @@
+module TestLibrary [system] {
+    header "test.h"
+    link "test"
+    export *
+}
